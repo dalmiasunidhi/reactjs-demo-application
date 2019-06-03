@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The functionality constraints are --
+1. For Room=1 , Adult+Children can be atmost 4.
+2. If we decrease the Room count, the Adult&Children count will auto-adjust to meet the constraints.
 
 ## Available Scripts
 
